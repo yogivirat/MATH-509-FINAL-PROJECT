@@ -2,7 +2,7 @@
 
 MAIN FILE: [MATH 509 FINAL PROJECT](https://github.com/yogivirat/MATH-509-FINAL-PROJECT/blob/master/math%20509%20final%20project.ipynb)  : This file contains the finalized version of the code documentation, including comments, explanations, and any necessary documentation.
 
-WORK FILE: [Work Platform](https://github.com/yogivirat/MATH-509-FINAL-PROJECT/blob/master/work%20platform) : This file represents the main version of the code where we spent most of our time working and refining it.
+WORK FILE: [Work Platform](https://colab.research.google.com/drive/1F4Lz6zZFCjK6LaGmsPxS4-JKrcLQjD9p?usp=sharing) || [or here](https://github.com/yogivirat/MATH-509-FINAL-PROJECT/blob/master/work%20platform.ipynb) : This file represents the main version of the code where we spent most of our time working and refining it.
 
 ### Project Description
 
